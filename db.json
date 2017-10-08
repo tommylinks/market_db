@@ -1,32 +1,6 @@
-[
 	{
 		"id": 1,
 		"category": "phone",
 		"name": "Iphone 7",
 		"price": 4500
-	},
-	{
-		"id": 2,
-		"category": "phone",
-		"name": "Samsung Galaxy S8",
-		"price": 5000
-	},
-	{
-		"id": 3,
-		"category": "laptop",
-		"name": "Acer K233",
-		"price": 7000
-	},
-	{
-		"id": 4,
-		"category": "laptop",
-		"name": "Macbook PRO",
-		"price": 17000
-	},
-	{
-		"id": 5,
-		"category": "watch",
-		"name": "Aple Watch",
-		"price": 2000
 	}
-]
