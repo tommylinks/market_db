@@ -1,5 +1,4 @@
 [
-
 	{
 		"id": 1,
 		"category": "phone",
@@ -29,6 +28,5 @@
 		"category": "watch",
 		"name": "Aple Watch",
 		"price": 2000
-	},
-
+	}
 ]
